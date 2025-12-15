@@ -1,5 +1,7 @@
 # Pygame 高级文本输入框 / Pygame Advanced Text Input Box
 
+![](screenshot.png)
+
 ## Introduction
 
 A high-performance, feature-rich text input box component developed with Pygame. Designed for Pygame applications requiring complex text input handling, supporting modern text editing features including multiline text, Chinese input, copy-paste, and more.
